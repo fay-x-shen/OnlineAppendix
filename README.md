@@ -1,2 +1,2 @@
 # OnlineAppendix
-DemandSubstitution - OnlineAppendix C
+DemandSubstitution - [OnlineAppendix-C](https://fay-x-shen.github.io/OnlineAppendix/papers/OnlineC.pdf)
